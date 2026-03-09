@@ -59,8 +59,11 @@ pip install -r requirements.txt
 ```
 
 Add your OpenWeatherMap API key:
+
 • Open config.py
-• Replace YOUR_API_KEY = "" with your key: YOUR_API_KEY = "your_real_api_key_here"
+
+• Replace YOUR_API_KEY = "" with your key: 
+YOUR_API_KEY = "your_real_api_key_here"
 
 
 #### ⚠️ Important: Do not push your API key to public repositories.
