@@ -48,8 +48,8 @@ Show 5-day forecast? (y/n) [n]: y
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MrV3nomous/weather-cli-app.git
-cd weather-cli-app
+git clone https://github.com/MrV3nomous/weather-cli.git
+cd weather-cli
 ```
 
 2. Install dependencies:
