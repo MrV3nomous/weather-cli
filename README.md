@@ -110,9 +110,9 @@ pip install -r requirements.txt
 
 ## Notes
 
-• Ensure your OpenWeatherMap API key is active.
-• For security, keep your API key private.
-• Works on Windows, macOS, and Linux terminals.
+- Ensure your OpenWeatherMap API key is active.
+- For security, keep your API key private.
+- Works on Windows, macOS, and Linux terminals.
 
 
 ---
