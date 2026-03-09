@@ -63,7 +63,7 @@ Add your OpenWeatherMap API key:
 • Replace YOUR_API_KEY = "" with your key: YOUR_API_KEY = "your_real_api_key_here"
 
 
-####⚠️ Important: Do not push your API key to public repositories.
+#### ⚠️ Important: Do not push your API key to public repositories.
 
 
 ---
