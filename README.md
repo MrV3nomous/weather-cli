@@ -92,14 +92,13 @@ Follow the interactive prompts:
 
 
 ## Dependencies
-requests
-rich
+
+The program uses the following dependencies:
+- requests
+- rich
 
 
----
-
-
-### Install all dependencies with:
+#### Install all dependencies with:
 
 ```bash
 pip install -r requirements.txt
